@@ -2,9 +2,9 @@
 
 ![MRS](https://github.com/user-attachments/assets/5478c608-c71d-4790-a0bf-9d92ff05aa35)
 
-![DATASET LINK](https://drive.google.com/drive/folders/1MwW_GMO3YKAUkx4x7RphyOtzlJhjUZgQ?usp=sharing)
+DATASET LINK -- https://drive.google.com/drive/folders/1MwW_GMO3YKAUkx4x7RphyOtzlJhjUZgQ?usp=sharing
 
-![Kaggle Link](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+![Kaggle Link] https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 A **Recommendation System** is an AI-driven tool that suggests relevant items to users based on their preferences and behavior. It is widely used in platforms like Netflix, Amazon, and Spotify to enhance user experience by filtering vast amounts of data and predicting what a user might like. There are primarily two types of recommendation systems: **Content-Based Filtering** and **Collaborative Filtering**. Content-Based Filtering recommends items by analyzing the characteristics of products and matching them with a user’s past interactions. For example, if a user watches a lot of action movies, the system will recommend similar films based on keywords, genres, or descriptions using techniques like **TF-IDF (Term Frequency-Inverse Document Frequency)** and **cosine similarity**.  
 
