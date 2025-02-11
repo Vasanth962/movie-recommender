@@ -158,8 +158,3 @@ OUTPUT FOR MRS ::-
 https://github.com/user-attachments/assets/77e9a69d-66f9-4172-8bf6-4f9480a84399
 
 
-
-https://github.com/user-attachments/assets/7e6fa896-6d85-489c-bd60-51e3e71bed9c
-
-
-OUT
